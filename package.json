@@ -13,7 +13,6 @@
     "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "ibm-watson": "^6.0.2",
-    "telegraf": "^4.0.3",
-    "youtube-search": "^1.1.6"
+    "telegraf": "^4.0.3"
   }
 }

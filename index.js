@@ -1,5 +1,4 @@
 const { Telegraf } = require('telegraf');
-const search = require('youtube-search');
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
